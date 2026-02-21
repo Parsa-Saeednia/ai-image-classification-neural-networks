@@ -266,8 +266,8 @@ are plotted to observe what patterns the filters respond to.
 
 ## Repository Structure
 
-├── AI_S04_CA4.ipynb   # Complete implementation and analysis (1997 lines)
-├── README.md
+├── AI_S04_CA4.ipynb  
+├── README.md  
 └── .gitignore
 
 ## How to Run
